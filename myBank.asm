@@ -9,16 +9,16 @@ DEFINE_SCAN_NUM
 .DATA
 
 
-customers db "BILLY   ",10,13,"$"
-          db "LAURINE ",10,13,"$"
-          db "PAUL    ",10,13,"$"
-          db "VINCE   ",10,13,"$" 
-          db "PAULINE ",10,13,"$"
-          db "LAMOY   ",10,13,"$"
-          db "KHAEMBA ",10,13,"$"
-          db "AKINYI  ",10,13,"$" 
-          db "NYABOKE ",10,13,"$"
-          db "MWALYA  ",10,13,"$"
+customers db "User1   ",10,13,"$"
+          db "User2 ",10,13,"$"
+          db "User3    ",10,13,"$"
+          db "User4   ",10,13,"$" 
+          db "User5 ",10,13,"$"
+          db "User6   ",10,13,"$"
+          db "User7 ",10,13,"$"
+          db "User8  ",10,13,"$" 
+          db "User9 ",10,13,"$"
+          db "user10  ",10,13,"$"
         
 bals dw 1000,2000,3000,7800,5600,9000,780,90,89,700
 
